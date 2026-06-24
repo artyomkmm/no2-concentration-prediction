@@ -1,8 +1,8 @@
-# NO2 Concentration Prediction
+# NO2 Concentration Prediction 
 
 This project focuses on predicting NO₂ concentration using air quality sensor data.
 
-The project was completed as part of a two-month Machine Learning program organized by RBK Bank. As a result of successfully completing the program, I was selected for a paid internship as a Data Scientist.
+The project was completed as part of a two-month Machine Learning program (final exam )organized by RBK Bank. As a result of successfully completing the program, I was selected for a paid internship as a Data Scientist.
 
 ## Project Overview
 
